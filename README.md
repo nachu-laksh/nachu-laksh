@@ -2,7 +2,8 @@
 - I'm a Professional Accountant with core skills in auditing, financial reporting, and data analysis.  
 - 📈 I’m passionate about streamlining processes and driving impactful, data-informed business decisions through modern analytics tools like Python, SQL, R, and Excel modeling.  
 - 🌱 Currently enhancing my data analytics and financial econometrics skills through ongoing projects and coursework.  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nachu-lakshmanan/)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nachu-lakshmanan/)
+- 📂 Check out my projects: [Repositories](https://github.com/nachu-laksh?tab=repositories)   
 
 
   
