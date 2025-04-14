@@ -1,5 +1,4 @@
-# 👋 Hi, I’m @nachu-laksh  
-- I'm a Professional Accountant with core skills in auditing, financial reporting, and data analysis.  
+# 👋 Hi, I’m @nachu-lakshI’m a Master’s student in Quantitative Economics at the University of Pittsburgh.
 - 📈 I’m passionate about streamlining processes and driving impactful, data-informed business decisions through modern analytics tools like Python, SQL, R, and Excel modeling.  
 - 🌱 Currently enhancing my data analytics and financial econometrics skills through ongoing projects and coursework.  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nachu-lakshmanan/)
